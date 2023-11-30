@@ -1,6 +1,9 @@
 import java.security.SecureRandom;
 import java.util.Scanner;
-//自动生成密码
+
+/**
+ * 自动生成密码
+ */
 public class Generate {
     public void generate(){
         //获取密码长度

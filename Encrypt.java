@@ -1,4 +1,6 @@
-//加密
+/**
+ * 加密
+ */
 public class Encrypt {
     public void encrypt(String encrypt){
         char password[]=new char[encrypt.length()];

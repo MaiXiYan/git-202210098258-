@@ -1,6 +1,9 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * 判断密码强度
+ */
 public class Determine {
     public void determine(String verPassword){
         //判定密码强度的判别式

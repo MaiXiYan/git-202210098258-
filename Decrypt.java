@@ -1,4 +1,6 @@
-//解密
+/**
+ * 解密
+ */
 public class Decrypt {
     public void decrypt(String decrypt){
         char password[]=new char[decrypt.length()];
